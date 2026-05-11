@@ -1,0 +1,22 @@
+# ============================================================
+# Amazon Scraper - Python Dependencies
+# ============================================================
+# Install with: pip install -r requirements.txt
+
+# --- Scrapy Core ---
+Scrapy>=2.11.0
+
+# --- MongoDB ---
+pymongo>=4.6.0
+
+# --- User Agent Rotation ---
+latest-user-agents>=1.0.0
+
+# --- Item Adapters ---
+itemadapter>=0.8.0
+
+# --- Environment Variable Management ---
+python-dotenv>=1.0.0
+
+# --- Utilities ---
+requests>=2.31.0
