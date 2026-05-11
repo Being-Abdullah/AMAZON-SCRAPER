@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon Product Scraper
 
 A Scrapy-based web scraper that fetches Amazon product data (prices, discounts, coupons, availability) using ASINs stored in MongoDB, and updates the database with the scraped results.
@@ -150,3 +151,6 @@ All secrets are stored in `.env` (never committed to git). See `.env.example` fo
 ## License
 
 MIT
+=======
+# AMAZON-SCRAPER
+>>>>>>> c8d75f00d461518a1394856952c42a9ca7bf19e3

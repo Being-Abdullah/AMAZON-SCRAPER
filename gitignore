@@ -63,3 +63,10 @@ desktop.ini
 htmlcov/
 .coverage
 coverage.xml
+
+
+env/
+venv/
+whiskyscraper/env/
+__pycache__/
+*.pyc
